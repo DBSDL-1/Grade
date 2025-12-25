@@ -1,0 +1,9 @@
+[submodule "Grade-9"]
+	path = Grade-9
+	url = https://github.com/DBSDL-1/Grade-9.git
+[submodule "Grade-10"]
+	path = Grade-10
+	url = https://github.com/DBSDL-1/Grade-10.git
+[submodule "Grade-12"]
+	path = Grade-12
+	url = https://github.com/DBSDL-1/Grade-12.git
